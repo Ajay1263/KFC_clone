@@ -85,32 +85,3 @@ Clone down this repository using this <a href="https://github.com/AnandRP2030/KF
 Visit the Deployed version using this <a href="https://my-kfc-clone3.netlify.app/">link</a>  
 <hr/>
 
-## Team Members and Contributors
-
-### Anand RP
-- **Github** : AnandRP2030
-- **Github Link** : https://github.com/AnandRP2030
-- **Linkedin** : https://www.linkedin.com/in/anandrp2030/
-
-### Ruchi Upadhyay
-- **Github** : warriorruchi
-- **Github Link** : https://github.com/warriorruchi
-- **Linkedin** :https://www.linkedin.com/in/ruchi-upadhyay-843a9021a
-
-### Keerthi Malini
-- **Github** : Keerthimalini6
-- **Github Link** : https://github.com/Keerthimalini6
-- **Linkedin** :https://www.linkedin.com/in/keerthi-malini-698923161
-
-### Debabrata Hembram
-- **Github** : debabrata-pw08-429
-- **Github Link** : https://github.com/debabrata-pw08-429
-- **Linkedin** :https://www.linkedin.com/in/debabrata-hembram-704723184/
-
-### Ankit Gadhwe
-- **Github** : AnkitGadhwe
-- **Github Link** :https://github.com/AnkitGadhwe
-- **Linkedin** :https://www.linkedin.com/in/ankit-gadhwe-47073a192/
-
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AnandRP2030/Kfc-clone.svg)](https://github.com/AnandRP2030/KFC-Clone)
-# KFC_clone
